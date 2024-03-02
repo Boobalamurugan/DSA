@@ -50,7 +50,7 @@ void job(){
     }
     else if(age <=57){
          cout<<"you are eligble";
-         if (age>=55){
+         if (age>=55){                          // Nested if else
             cout<<", Retirement soon"<<"\n";
          }
     }
